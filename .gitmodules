@@ -1,0 +1,3 @@
+[submodule "external/MadEngine"]
+	path = external/MadEngine
+	url = https://github.com/jshatto0225/MadEngine
